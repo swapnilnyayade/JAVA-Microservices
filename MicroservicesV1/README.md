@@ -14,3 +14,4 @@ Run:
 Warning:
 1) add one more dependency in APIGateway
 Spring Cloud Starter Circuitbreaker Reactor Resilience4j » 2.1.0
+2)Hystrix Dashboard always show loading
